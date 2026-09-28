@@ -172,7 +172,7 @@ Bachelor of Information Systems
 
 <a href="https://github.com/YousefAlmaweri">
   <img
-    src="https://streak-stats.demolab.com?user=YousefAlmaweri&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+    src="https://streak-stats.demolab.com?user=YousefAlmaweri&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF"
     alt="GitHub Streak"
   />
 </a>
