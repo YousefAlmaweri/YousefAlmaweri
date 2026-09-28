@@ -170,21 +170,14 @@ Bachelor of Information Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YousefAlmaweri&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAlmaweri&layout=compact&hide_border=true&langs_count=8" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YousefAlmaweri&hide_border=true" />
+<a href="https://github.com/YousefAlmaweri">
+  <img
+    src="https://streak-stats.demolab.com?user=YousefAlmaweri&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
-
----
 
 ## Engineering Interests
 
