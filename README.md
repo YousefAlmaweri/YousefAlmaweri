@@ -2,26 +2,47 @@
 
 **Information Systems Student | Full-Stack Developer | Distributed Systems**
 
-Information Systems student at **Multimedia University (MMU)** focused on building full-stack applications, scalable backend systems, and data-driven solutions.
-
-My interests include software architecture, microservices, distributed systems, data engineering, and practical applications of artificial intelligence.
+Information Systems student at **Multimedia University (MMU)** focused on full-stack development, backend architecture, distributed systems, and data engineering.
 
 ## Technical Skills
 
-**Languages**
-C++ · TypeScript · JavaScript · Python · PHP · SQL
+### Languages
 
-**Frontend**
-Angular · React.js · HTML · CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,php" />
+</p>
 
-**Backend**
-NestJS · Node.js · Laravel
+### Frontend
 
-**Data Engineering & AI**
-PySpark · Hadoop HDFS · Hive · HBase · Machine Learning · Data Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
+</p>
 
-**Infrastructure & Systems**
-Docker · Linux · Git · NATS
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel" />
+</p>
+
+### Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  PySpark · Hadoop HDFS · Hive · HBase · Machine Learning · Data Analysis
+</p>
+
+### Infrastructure & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+<p>
+  NATS · Distributed Systems · Microservices
+</p>
 
 ## Selected Projects
 
@@ -29,9 +50,9 @@ Docker · Linux · Git · NATS
 
 **Intelligent Image-Based Visual Search E-Commerce System**
 
-A web-based visual search e-commerce prototype that uses AI-powered image analysis to identify product characteristics and help users discover relevant products.
+A web-based visual search e-commerce prototype using AI-powered image analysis to identify product characteristics and help users discover relevant products.
 
-**Technologies:** TypeScript · Angular · NestJS · AI APIs · Docker
+**Focus:** AI · Visual Search · E-Commerce · Full-Stack Development
 
 ### Distributed Systems & Microservices
 
@@ -58,12 +79,11 @@ Bachelor of Information Systems
 
 ## GitHub Statistics
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=YousefAlmaweri&show_icons=true&hide_border=true&rank_icon=github" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAlmaweri&layout=compact&hide_border=true" height="165" />
 </p>
 
 ## Contact
 
-**Email:** [yousefalmaweri@outlook.com](mailto:yousefalmaweri@outlook.com)
-**GitHub:** [YousefAlmaweri](https://github.com/YousefAlmaweri)
+[GitHub](https://github.com/YousefAlmaweri) · [Email](mailto:yousefalmaweri@outlook.com)
